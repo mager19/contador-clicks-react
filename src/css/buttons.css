@@ -1,0 +1,27 @@
+.btn--click {
+	background-color: lightblue;
+	border: none;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 5px;
+	padding: 10px 20px;
+	margin-right: 1rem;
+}
+
+.btn--click:hover,
+.btn--reset:hover {
+	opacity: 0.8;
+}
+
+.btn--reset {
+	background-color: lightcoral;
+	border: none;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 5px;
+	padding: 10px 20px;
+}
